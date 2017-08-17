@@ -136,7 +136,7 @@ int output(){                                                                   
     outputFile <<"font-size: 37px;"<< endl;
     outputFile <<"color: black;"<< endl;
     outputFile <<"padding-left: 3px;"<< endl;
-    outputFile <<"width: 900px;"<< endl;
+    outputFile <<"width: 823px;"<< endl;
     outputFile <<"border-radius: 4px;"<< endl;
     outputFile <<"}"<< endl;
     outputFile <<"#tpDayte{"<< endl;
